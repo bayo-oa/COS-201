@@ -25,6 +25,3 @@ public class Loops {
         }
     }
 }
-// using a for loop  identify all prime number between 1 and 500
-
-//assignment write a method in java, that generate the first n of the figurrnatry sequence
